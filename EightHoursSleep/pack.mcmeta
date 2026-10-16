@@ -1,9 +1,7 @@
 {
-    "pack":
-    {
-        "description": "You sleep 8 hours. Usually.",
-        "pack_format": 94,
-        "min_format": 88,
-        "max_format": 94
-    }
+  "pack": {
+    "min_format": [101, 1],
+    "max_format": [121, 0],
+    "description": "You sleep 8 hours. Usually."
+  }
 }
